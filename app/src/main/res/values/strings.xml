@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TSAPP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_title">首页</string>
+    <string name="home_text_search_before">注册前查询</string>
+    <string name="home_regis_text">商标注册</string>
+    <string name="home_shangbiaobuy">商标购买</string>
+    <string name="home_guobiao_text">国标注册</string>
+    <string name="home_chaxun_text">商标查询</string>
+    <string name="home_fenlei_tex">商标分类</string>
+    <string name="home_jindu_tex">进度查询</string>
+    <string name="home_jinduzhanshi">进度展示</string>
+    <string name="home_help">帮助</string>
+    <string name="home_txt_qingming">品牌起名</string>
+    <string name="home_backpress">再按一次退出</string>
+</resources>
